@@ -1,11 +1,11 @@
 🍽️ Zomato Business Intelligence Dashboard
-
-Transforming Restaurant Data into Actionable Business Insights
-
+```text
+Transforming Restaurant Data into Actionable Business Insights.
+```
 📖 About the Project
-
+```text
 The food delivery industry generates massive amounts of data every day, making it challenging to uncover meaningful business insights. This project analyzes 100K+ real-world Zomato records to understand customer behavior, restaurant performance, sales trends, and revenue distribution. Built using Power BI, the dashboard transforms raw data into interactive visualizations that support data-driven business decisions through dynamic KPIs, filters, and analytical reports.
-
+```
 📌 Problem Statement
 
 Restaurant businesses collect large volumes of operational data, but extracting valuable insights from it can be difficult. Business stakeholders often struggle to answer questions such as:
@@ -54,9 +54,9 @@ Data Modeling
 Data Visualization
 ```
 📌 Dataset
-
+```text
 This project was developed using a real-world Zomato dataset containing over 100,000 records across restaurant, customer, menu, and order information. The original dataset is not included in this repository. However, the complete Power BI dashboard (.pbix) is provided to demonstrate the data model, DAX calculations, and interactive visualizations.
-
+```
 📊 Dashboard Features
 ```text
 📈 Interactive KPIs
@@ -78,7 +78,7 @@ Sales peaked during 2018 before declining in later years.
 Interactive filters enable detailed analysis by city, food category, and customer segment.
 ```
 👩‍💻 Author
-
+```text
 Jayasree Chakraborty
 
 B.Tech Computer Science & Engineering
@@ -86,3 +86,4 @@ B.Tech Computer Science & Engineering
 Passionate about Data Analytics, Business Intelligence, and building data-driven solutions.
 
 If you found this project useful, consider giving it a star!
+```
