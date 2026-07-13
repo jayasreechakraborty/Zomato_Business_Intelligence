@@ -9,13 +9,13 @@ The food delivery industry generates massive amounts of data every day, making i
 📌 Problem Statement
 
 Restaurant businesses collect large volumes of operational data, but extracting valuable insights from it can be difficult. Business stakeholders often struggle to answer questions such as:
-
+```text
 Which cities generate the highest revenue?
 Which customer segments contribute the most sales?
 Which food categories are most popular?
 How do restaurant ratings impact business performance?
 What are the yearly sales trends?
-
+```
 Without a centralized dashboard, analyzing this information becomes time-consuming and inefficient.
 
 💡 Solution
@@ -23,13 +23,13 @@ Without a centralized dashboard, analyzing this information becomes time-consumi
 This interactive Power BI dashboard consolidates restaurant, customer, order, and menu data into a single analytics platform. It enables users to monitor KPIs, compare sales performance across cities, analyze customer behavior, and identify business trends through interactive visualizations and slicers. The dashboard helps businesses make informed decisions related to marketing strategies, customer engagement, and operational planning.
 
 🎯 Project Objectives
-
+```text
 Analyze restaurant sales performance.
 Identify top-performing cities and customer segments.
 Compare food category sales and customer preferences.
 Track yearly revenue and order trends.
 Build an interactive dashboard for business decision-making.
-
+```
 📂 Project Structure
 
 ```text
@@ -46,19 +46,19 @@ Zomato-Business-Intelligence-Dashboard
 ```
 
 🛠️ Tech Stack
-
+```text
 Microsoft Power BI
 Power Query
 DAX
 Data Modeling
 Data Visualization
-
+```
 📌 Dataset
 
 This project was developed using a real-world Zomato dataset containing over 100,000 records across restaurant, customer, menu, and order information. The original dataset is not included in this repository. However, the complete Power BI dashboard (.pbix) is provided to demonstrate the data model, DAX calculations, and interactive visualizations.
 
 📊 Dashboard Features
-
+```text
 📈 Interactive KPIs
 🏙️ City-wise Sales Analysis
 💰 Revenue Analysis
@@ -68,15 +68,15 @@ This project was developed using a real-world Zomato dataset containing over 100
 👥 Customer Segment Analysis
 📅 Yearly Sales Trend
 🎛️ Interactive Slicers & Filters
-
+```
 🔍 Key Insights
-
+```text
 Tirupati generated the highest sales among all cities.
 Students and employees contributed the largest share of total revenue.
 Veg and Non-Veg categories dominated overall sales.
 Sales peaked during 2018 before declining in later years.
 Interactive filters enable detailed analysis by city, food category, and customer segment.
-
+```
 👩‍💻 Author
 
 Jayasree Chakraborty
