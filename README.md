@@ -61,7 +61,9 @@ Data Visualization
 ```
 📌 Dataset
 ```text
-This project was developed using a real-world Zomato dataset containing over 100,000 records across restaurant, customer, menu, and order information. The original dataset is not included in this repository. However, the complete Power BI dashboard (.pbix) is provided to demonstrate the data model, DAX calculations, and interactive visualizations.
+-This project was developed using a real-world Zomato dataset containing over 100,000 records across restaurant, customer, menu, and order information.
+-The original dataset is not included in this repository.
+-However, the complete Power BI dashboard (.pbix) is provided to demonstrate the data model, DAX calculations, and interactive visualizations.
 ```
 📊 Dashboard Features
 ```text
