@@ -23,9 +23,9 @@ What are the yearly sales trends?
 Without a centralized dashboard, analyzing this information becomes time-consuming and inefficient.
 
 💡 Solution
-
+```text
 This interactive Power BI dashboard consolidates restaurant, customer, order, and menu data into a single analytics platform. It enables users to monitor KPIs, compare sales performance across cities, analyze customer behavior, and identify business trends through interactive visualizations and slicers. The dashboard helps businesses make informed decisions related to marketing strategies, customer engagement, and operational planning.
-
+```
 🎯 Project Objectives
 ```text
 Analyze restaurant sales performance.
