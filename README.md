@@ -3,11 +3,11 @@
 Transforming Restaurant Data into Actionable Business Insights.
 ```
 📖 About the Project
-```text
-The food delivery industry generates massive amounts of data every day, making it challenging to uncover meaningful business insights.
- This project analyzes 100K+ real-world Zomato records to understand customer behavior, restaurant performance, sales trends, and revenue distribution.
-Built using Power BI, the dashboard transforms raw data into interactive visualizations that support data-driven business decisions through dynamic KPIs, filters, and analytical reports.
-```
+
+-The food delivery industry generates massive amounts of data every day, making it challenging to uncover meaningful business insights.
+-This project analyzes 100K+ real-world Zomato records to understand customer behavior, restaurant performance, sales trends, and revenue distribution.
+-Built using Power BI, the dashboard transforms raw data into interactive visualizations that support data-driven business decisions through dynamic KPIs, filters, and analytical reports.
+
 📌 Problem Statement
 
 Restaurant businesses collect large volumes of operational data, but extracting valuable insights from it can be difficult. Business stakeholders often struggle to answer questions such as:
