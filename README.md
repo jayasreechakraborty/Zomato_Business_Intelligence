@@ -65,6 +65,14 @@ Data Visualization
 -The original dataset is not included in this repository.
 -However, the complete Power BI dashboard (.pbix) is provided to demonstrate the data model, DAX calculations, and interactive visualizations.
 ```
+
+
+DASHBOARD
+
+<img width="686" height="381" alt="ZOMATO DASHBOARD" src="https://github.com/user-attachments/assets/33fc339a-d669-46c6-9822-69022a0561d1" />
+
+
+
 📊 Dashboard Features
 ```text
 📈 Interactive KPIs
