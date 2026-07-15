@@ -119,15 +119,6 @@ This project was developed using a **real-world Zomato dataset** containing over
 
 ---
 
-## 🚀 Future Improvements
-
-- Integrate real-time restaurant data.
-- Add predictive sales forecasting using Machine Learning.
-- Develop customer segmentation using clustering techniques.
-- Publish dashboards to the Power BI Service for live reporting.
-
----
-
 ## 👩‍💻 Author
 
 **Jayasree Chakraborty**
