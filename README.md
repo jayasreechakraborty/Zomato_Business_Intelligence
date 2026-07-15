@@ -125,14 +125,15 @@ This project was developed using a **real-world Zomato dataset** containing over
 
 **B.Tech – Computer Science & Engineering**
 
+Passionate about **Data Analytics, Business Intelligence, SQL, Power BI, and AI-driven solutions.**
+
+---
+
+⭐ **If you found this project useful, consider giving it a star!**
+
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
-Passionate about **Data Analytics, Business Intelligence, SQL, Power BI, and AI-driven solutions.**
-
----
-
-⭐ **If you found this project useful, consider giving it a star!**
